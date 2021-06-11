@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploy on Container </h2>
+<h1> Hello world!!!   </h1>
+<h2> Deploy on kubernetes </h2>
